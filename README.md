@@ -3,6 +3,7 @@
 Solutions of ACM-ICPC Latin American Contests
 
 ## 2018 ICPC Brazil Subregional
+Contest link: https://codeforces.com/gym/101908
 | ID | Problem | Contents | Resources | Related problems | 
 | --- | --- | --- | --- | --- |
 | A | Slackline Adventure | Möbius inversion | |
