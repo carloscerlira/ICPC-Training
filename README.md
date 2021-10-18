@@ -2,6 +2,18 @@
 
 Solutions of ACM-ICPC Latin American Contests
 
+## 2019 ICPC Brazil Subregional
+Contest link: https://codeforces.com/gym/102346
+| ID | Problem | Contents | Resources | Related problems | 
+| --- | --- | --- | --- | --- |
+| A | Artwork | Connected components (DFS or DSU) | |
+| B | Buffoon | Ad-hoc | |
+| D | Denouncing Mafia | Tree DP | |
+| G | Getting Confidence | Assigment problem - Hungarian | https://github.com/xashru/competitive-programming/blob/master/Library/Hungarian.cpp | 
+| H | Hour for a Run | Ad-hoc | |
+| L | Less Coin Tosses| Ad-hoc math | |
+| M | Maratona Brasileira de Popcorn | Binary search | |
+
 ## 2018 ICPC Brazil Subregional
 Contest link: https://codeforces.com/gym/101908
 | ID | Problem | Contents | Resources | Related problems | 
