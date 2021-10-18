@@ -4,6 +4,7 @@ Solutions of ACM-ICPC Latin American Contests
 
 ## 2019 ICPC Brazil Subregional
 Contest link: https://codeforces.com/gym/102346
+Editorial: https://blog.csdn.net/a1214034447/article/details/102818357
 | ID | Problem | Contents | Resources | Related problems | 
 | --- | --- | --- | --- | --- |
 | A | Artwork | Connected components (DFS or DSU) | |
